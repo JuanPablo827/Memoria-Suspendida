@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: f073e506789950f41a21ebc1e1acb565
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2828515952813557934
+    second: "una habitaci\xF3n mascu-Photoroom_0"
+  - first:
+      213: 4999865380757829231
+    second: "una habitaci\xF3n mascu-Photoroom_1"
+  - first:
+      213: 1903076388064551525
+    second: "una habitaci\xF3n mascu-Photoroom_2"
+  - first:
+      213: 5938332044652077712
+    second: "una habitaci\xF3n mascu-Photoroom_3"
+  - first:
+      213: 2924466651093489014
+    second: "una habitaci\xF3n mascu-Photoroom_4"
+  - first:
+      213: 2395335487788302130
+    second: "una habitaci\xF3n mascu-Photoroom_5"
+  - first:
+      213: -2504337769447786927
+    second: "una habitaci\xF3n mascu-Photoroom_6"
+  - first:
+      213: 566591927871875337
+    second: "una habitaci\xF3n mascu-Photoroom_7"
+  - first:
+      213: -8137994061044603184
+    second: "una habitaci\xF3n mascu-Photoroom_8"
+  - first:
+      213: -7594821391528983550
+    second: "una habitaci\xF3n mascu-Photoroom_9"
+  - first:
+      213: 8223151634440802687
+    second: "una habitaci\xF3n mascu-Photoroom_10"
+  - first:
+      213: -4106977868433613631
+    second: "una habitaci\xF3n mascu-Photoroom_11"
+  - first:
+      213: 5473158483133052250
+    second: "una habitaci\xF3n mascu-Photoroom_12"
+  - first:
+      213: 2411105545655179471
+    second: "una habitaci\xF3n mascu-Photoroom_13"
+  - first:
+      213: -8162310723919558495
+    second: "una habitaci\xF3n mascu-Photoroom_14"
+  - first:
+      213: 2172330390419949823
+    second: "una habitaci\xF3n mascu-Photoroom_15"
+  - first:
+      213: -7596547397698664166
+    second: "una habitaci\xF3n mascu-Photoroom_16"
+  - first:
+      213: -3369991806331662595
+    second: "una habitaci\xF3n mascu-Photoroom_17"
+  - first:
+      213: -8910593380847100769
+    second: "una habitaci\xF3n mascu-Photoroom_18"
+  - first:
+      213: -1687784283191807406
+    second: "una habitaci\xF3n mascu-Photoroom_19"
+  - first:
+      213: 6136714963844891476
+    second: "una habitaci\xF3n mascu-Photoroom_20"
+  - first:
+      213: 1294741140954145512
+    second: "una habitaci\xF3n mascu-Photoroom_21"
+  - first:
+      213: -6008927033902379551
+    second: "una habitaci\xF3n mascu-Photoroom_22"
+  - first:
+      213: -1680775784327413325
+    second: "una habitaci\xF3n mascu-Photoroom_23"
+  - first:
+      213: 9083442726936602202
+    second: "una habitaci\xF3n mascu-Photoroom_24"
+  - first:
+      213: 6133421177564428203
+    second: "una habitaci\xF3n mascu-Photoroom_25"
+  - first:
+      213: 6535631595964052436
+    second: "una habitaci\xF3n mascu-Photoroom_26"
+  - first:
+      213: -1365191385843948650
+    second: "una habitaci\xF3n mascu-Photoroom_27"
+  - first:
+      213: -4108146880515335114
+    second: "una habitaci\xF3n mascu-Photoroom_28"
+  - first:
+      213: 4493062682525681456
+    second: "una habitaci\xF3n mascu-Photoroom_29"
+  - first:
+      213: 3113892062386586596
+    second: "una habitaci\xF3n mascu-Photoroom_30"
+  - first:
+      213: 3110127473973429404
+    second: "una habitaci\xF3n mascu-Photoroom_31"
+  - first:
+      213: 8133209914630699718
+    second: "una habitaci\xF3n mascu-Photoroom_32"
+  - first:
+      213: 4547368768048297126
+    second: "una habitaci\xF3n mascu-Photoroom_33"
+  - first:
+      213: 5363393125103756990
+    second: "una habitaci\xF3n mascu-Photoroom_34"
+  - first:
+      213: -8789400177361623299
+    second: "una habitaci\xF3n mascu-Photoroom_35"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_0"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1041
+        width: 307
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea84af0e548e04720800000000000000
+      internalID: 2828515952813557934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_1"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1092
+        width: 158
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66f7d8c217136540800000000000000
+      internalID: 4999865380757829231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_2"
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1132
+        width: 178
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562650b54e5196a10800000000000000
+      internalID: 1903076388064551525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_3"
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1080
+        width: 105
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0926ecf2881396250800000000000000
+      internalID: 5938332044652077712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_4"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 761
+        width: 333
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67557e7bceac59820800000000000000
+      internalID: 2924466651093489014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_5"
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1011
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f32836fe0fd3120800000000000000
+      internalID: 2395335487788302130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_6"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 838
+        width: 181
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1567876311ece3dd0800000000000000
+      internalID: -2504337769447786927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_7"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 761
+        width: 121
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90928614b50fcd700800000000000000
+      internalID: 566591927871875337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_8"
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 787
+        width: 71
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6a237b489001f80800000000000000
+      internalID: -8137994061044603184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_9"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 622
+        width: 144
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2048069fe26c99690800000000000000
+      internalID: -7594821391528983550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_10"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 630
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f715409e7d08e1270800000000000000
+      internalID: 8223151634440802687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_11"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 572
+        width: 169
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc9f9b63651107c0800000000000000
+      internalID: -4106977868433613631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_12"
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 614
+        width: 107
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55bf8274a094fb40800000000000000
+      internalID: 5473158483133052250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_13"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 583
+        width: 126
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc850cc18b7f57120800000000000000
+      internalID: 2411105545655179471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_14"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 394
+        width: 184
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8c96274a5a9be80800000000000000
+      internalID: -8162310723919558495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_15"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 461
+        width: 45
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff844c70bfaa52e10800000000000000
+      internalID: 2172330390419949823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_16"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 461
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19c0c8d364a39690800000000000000
+      internalID: -7596547397698664166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_17"
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 404
+        width: 100
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfecf9f9e426b31d0800000000000000
+      internalID: -3369991806331662595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_18"
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 475
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c59acc786375480800000000000000
+      internalID: -8910593380847100769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_19"
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 368
+        width: 126
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2527ddef229c398e0800000000000000
+      internalID: -1687784283191807406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_20"
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 306
+        width: 172
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4538cc3febdf92550800000000000000
+      internalID: 6136714963844891476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_21"
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 292
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2e7a63538d7f110800000000000000
+      internalID: 1294741140954145512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_22"
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 241
+        width: 113
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edc10703b00c9ca0800000000000000
+      internalID: -6008927033902379551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_23"
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 379
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1061c445faca8e0800000000000000
+      internalID: -1680775784327413325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_24"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 280
+        width: 126
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5669a4b80fde0e70800000000000000
+      internalID: 9083442726936602202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_25"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 194
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7f592901a4e1550800000000000000
+      internalID: 6133421177564428203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_26"
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 251
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3b14c2f4a33ba50800000000000000
+      internalID: 6535631595964052436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_27"
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 277
+        width: 97
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693295ceaaddd0de0800000000000000
+      internalID: -1365191385843948650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_28"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 61
+        width: 238
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c11c59d2eecf6c0800000000000000
+      internalID: -4108146880515335114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_29"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 237
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037c18954b09a5e30800000000000000
+      internalID: 4493062682525681456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_30"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 165
+        width: 126
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e306772554c63b20800000000000000
+      internalID: 3113892062386586596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_31"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 50
+        width: 74
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c948e5c9574692b20800000000000000
+      internalID: 3110127473973429404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_32"
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 54
+        width: 112
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca7f356357fed070800000000000000
+      internalID: 8133209914630699718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_33"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 161
+        width: 94
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a479323dcf7b1f30800000000000000
+      internalID: 4547368768048297126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_34"
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 54
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6e49c71a99e6a40800000000000000
+      internalID: 5363393125103756990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una habitaci\xF3n mascu-Photoroom_35"
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 50
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6ea9f5b17c50680800000000000000
+      internalID: -8789400177361623299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "una habitaci\xF3n mascu-Photoroom_0": 2828515952813557934
+      "una habitaci\xF3n mascu-Photoroom_1": 4999865380757829231
+      "una habitaci\xF3n mascu-Photoroom_10": 8223151634440802687
+      "una habitaci\xF3n mascu-Photoroom_11": -4106977868433613631
+      "una habitaci\xF3n mascu-Photoroom_12": 5473158483133052250
+      "una habitaci\xF3n mascu-Photoroom_13": 2411105545655179471
+      "una habitaci\xF3n mascu-Photoroom_14": -8162310723919558495
+      "una habitaci\xF3n mascu-Photoroom_15": 2172330390419949823
+      "una habitaci\xF3n mascu-Photoroom_16": -7596547397698664166
+      "una habitaci\xF3n mascu-Photoroom_17": -3369991806331662595
+      "una habitaci\xF3n mascu-Photoroom_18": -8910593380847100769
+      "una habitaci\xF3n mascu-Photoroom_19": -1687784283191807406
+      "una habitaci\xF3n mascu-Photoroom_2": 1903076388064551525
+      "una habitaci\xF3n mascu-Photoroom_20": 6136714963844891476
+      "una habitaci\xF3n mascu-Photoroom_21": 1294741140954145512
+      "una habitaci\xF3n mascu-Photoroom_22": -6008927033902379551
+      "una habitaci\xF3n mascu-Photoroom_23": -1680775784327413325
+      "una habitaci\xF3n mascu-Photoroom_24": 9083442726936602202
+      "una habitaci\xF3n mascu-Photoroom_25": 6133421177564428203
+      "una habitaci\xF3n mascu-Photoroom_26": 6535631595964052436
+      "una habitaci\xF3n mascu-Photoroom_27": -1365191385843948650
+      "una habitaci\xF3n mascu-Photoroom_28": -4108146880515335114
+      "una habitaci\xF3n mascu-Photoroom_29": 4493062682525681456
+      "una habitaci\xF3n mascu-Photoroom_3": 5938332044652077712
+      "una habitaci\xF3n mascu-Photoroom_30": 3113892062386586596
+      "una habitaci\xF3n mascu-Photoroom_31": 3110127473973429404
+      "una habitaci\xF3n mascu-Photoroom_32": 8133209914630699718
+      "una habitaci\xF3n mascu-Photoroom_33": 4547368768048297126
+      "una habitaci\xF3n mascu-Photoroom_34": 5363393125103756990
+      "una habitaci\xF3n mascu-Photoroom_35": -8789400177361623299
+      "una habitaci\xF3n mascu-Photoroom_4": 2924466651093489014
+      "una habitaci\xF3n mascu-Photoroom_5": 2395335487788302130
+      "una habitaci\xF3n mascu-Photoroom_6": -2504337769447786927
+      "una habitaci\xF3n mascu-Photoroom_7": 566591927871875337
+      "una habitaci\xF3n mascu-Photoroom_8": -8137994061044603184
+      "una habitaci\xF3n mascu-Photoroom_9": -7594821391528983550
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

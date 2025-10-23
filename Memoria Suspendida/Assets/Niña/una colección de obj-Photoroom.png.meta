@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: c75618141992cd044aea505a2e72d6d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5437774047370657626
+    second: "una colecci\xF3n de obj-Photoroom_0"
+  - first:
+      213: -488019120094647069
+    second: "una colecci\xF3n de obj-Photoroom_1"
+  - first:
+      213: 8956562783459876204
+    second: "una colecci\xF3n de obj-Photoroom_2"
+  - first:
+      213: -7652229747651150675
+    second: "una colecci\xF3n de obj-Photoroom_3"
+  - first:
+      213: -1765798792775238517
+    second: "una colecci\xF3n de obj-Photoroom_4"
+  - first:
+      213: -8269699938357413970
+    second: "una colecci\xF3n de obj-Photoroom_5"
+  - first:
+      213: -2547244906570131733
+    second: "una colecci\xF3n de obj-Photoroom_6"
+  - first:
+      213: -427563979002195083
+    second: "una colecci\xF3n de obj-Photoroom_7"
+  - first:
+      213: -1165313586550375594
+    second: "una colecci\xF3n de obj-Photoroom_8"
+  - first:
+      213: 6417190492730173109
+    second: "una colecci\xF3n de obj-Photoroom_9"
+  - first:
+      213: -7410247827506391115
+    second: "una colecci\xF3n de obj-Photoroom_10"
+  - first:
+      213: -3820737773357565072
+    second: "una colecci\xF3n de obj-Photoroom_11"
+  - first:
+      213: 4892019578343481680
+    second: "una colecci\xF3n de obj-Photoroom_12"
+  - first:
+      213: 7800761204770884036
+    second: "una colecci\xF3n de obj-Photoroom_13"
+  - first:
+      213: -6695171631705697503
+    second: "una colecci\xF3n de obj-Photoroom_14"
+  - first:
+      213: 4567622421021005504
+    second: "una colecci\xF3n de obj-Photoroom_15"
+  - first:
+      213: 3095134026598363890
+    second: "una colecci\xF3n de obj-Photoroom_16"
+  - first:
+      213: -1183429659446528529
+    second: "una colecci\xF3n de obj-Photoroom_17"
+  - first:
+      213: 3072549717578305528
+    second: "una colecci\xF3n de obj-Photoroom_18"
+  - first:
+      213: -5508983479323475510
+    second: "una colecci\xF3n de obj-Photoroom_19"
+  - first:
+      213: 5045478807765010236
+    second: "una colecci\xF3n de obj-Photoroom_20"
+  - first:
+      213: -3257342744084304048
+    second: "una colecci\xF3n de obj-Photoroom_21"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_0"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 526
+        width: 289
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fbd5e7faad67b40800000000000000
+      internalID: 5437774047370657626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_1"
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 579
+        width: 132
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ece82722353a39f0800000000000000
+      internalID: -488019120094647069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_2"
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 684
+        width: 224
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d1c9cc56a1c4c70800000000000000
+      internalID: 8956562783459876204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_3"
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 491
+        width: 247
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac73977691ddc590800000000000000
+      internalID: -7652229747651150675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_4"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 689
+        width: 145
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c71d38a5f9e77e0800000000000000
+      internalID: -1765798792775238517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_5"
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 501
+        width: 147
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7f22788bf1c3d80800000000000000
+      internalID: -8269699938357413970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_6"
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 603
+        width: 89
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6d6fbd04e56acd0800000000000000
+      internalID: -2547244906570131733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_7"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 287
+        width: 233
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57352d093dcf01af0800000000000000
+      internalID: -427563979002195083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_8"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 304
+        width: 170
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b7ab59779f3dfe0800000000000000
+      internalID: -1165313586550375594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_9"
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 451
+        width: 113
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6223fd0c07e0950800000000000000
+      internalID: 6417190492730173109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_10"
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 306
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b71fdfacd2892990800000000000000
+      internalID: -7410247827506391115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_11"
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 272
+        width: 144
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bfa1ffc330afac0800000000000000
+      internalID: -3820737773357565072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_12"
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 297
+        width: 187
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0516b6133e1f3e340800000000000000
+      internalID: 4892019578343481680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_13"
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 272
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9440c4cfed14c60800000000000000
+      internalID: 7800761204770884036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_14"
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 164
+        width: 260
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123d8ed9fd8f513a0800000000000000
+      internalID: -6695171631705697503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_15"
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 50
+        width: 164
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c611114464736f30800000000000000
+      internalID: 4567622421021005504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_16"
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 36
+        width: 197
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2be9b9fff14fa20800000000000000
+      internalID: 3095134026598363890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_17"
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 56
+        width: 143
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5370caefc939fe0800000000000000
+      internalID: -1183429659446528529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_18"
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 44
+        width: 211
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff4bf660b3e3aa20800000000000000
+      internalID: 3072549717578305528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_19"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 51
+        width: 107
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1cd61a6b82c83b0800000000000000
+      internalID: -5508983479323475510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_20"
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 45
+        width: 93
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37489a5e34250640800000000000000
+      internalID: 5045478807765010236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "una colecci\xF3n de obj-Photoroom_21"
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 28
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fa82b48089bc2d0800000000000000
+      internalID: -3257342744084304048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "una colecci\xF3n de obj-Photoroom_0": 5437774047370657626
+      "una colecci\xF3n de obj-Photoroom_1": -488019120094647069
+      "una colecci\xF3n de obj-Photoroom_10": -7410247827506391115
+      "una colecci\xF3n de obj-Photoroom_11": -3820737773357565072
+      "una colecci\xF3n de obj-Photoroom_12": 4892019578343481680
+      "una colecci\xF3n de obj-Photoroom_13": 7800761204770884036
+      "una colecci\xF3n de obj-Photoroom_14": -6695171631705697503
+      "una colecci\xF3n de obj-Photoroom_15": 4567622421021005504
+      "una colecci\xF3n de obj-Photoroom_16": 3095134026598363890
+      "una colecci\xF3n de obj-Photoroom_17": -1183429659446528529
+      "una colecci\xF3n de obj-Photoroom_18": 3072549717578305528
+      "una colecci\xF3n de obj-Photoroom_19": -5508983479323475510
+      "una colecci\xF3n de obj-Photoroom_2": 8956562783459876204
+      "una colecci\xF3n de obj-Photoroom_20": 5045478807765010236
+      "una colecci\xF3n de obj-Photoroom_21": -3257342744084304048
+      "una colecci\xF3n de obj-Photoroom_3": -7652229747651150675
+      "una colecci\xF3n de obj-Photoroom_4": -1765798792775238517
+      "una colecci\xF3n de obj-Photoroom_5": -8269699938357413970
+      "una colecci\xF3n de obj-Photoroom_6": -2547244906570131733
+      "una colecci\xF3n de obj-Photoroom_7": -427563979002195083
+      "una colecci\xF3n de obj-Photoroom_8": -1165313586550375594
+      "una colecci\xF3n de obj-Photoroom_9": 6417190492730173109
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 5bdca3e8c74444a4789b757d9970a893
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5800267754141170794
+    second: "paredes de habitaci\xF3-Photoroom_0"
+  - first:
+      213: -223080607844546244
+    second: "paredes de habitaci\xF3-Photoroom_1"
+  - first:
+      213: -7336190218308282763
+    second: "paredes de habitaci\xF3-Photoroom_2"
+  - first:
+      213: -1218572334640745383
+    second: "paredes de habitaci\xF3-Photoroom_3"
+  - first:
+      213: -638362247800020575
+    second: "paredes de habitaci\xF3-Photoroom_4"
+  - first:
+      213: -5214825097233101639
+    second: "paredes de habitaci\xF3-Photoroom_5"
+  - first:
+      213: -1644094157259448659
+    second: "paredes de habitaci\xF3-Photoroom_6"
+  - first:
+      213: -5454159198979999730
+    second: "paredes de habitaci\xF3-Photoroom_7"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "paredes de habitaci\xF3-Photoroom_0"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 566
+        width: 233
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cbcbf8ac0be7050800000000000000
+      internalID: 5800267754141170794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "paredes de habitaci\xF3-Photoroom_1"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 599
+        width: 523
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39c52d7e5577ecf0800000000000000
+      internalID: -223080607844546244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "paredes de habitaci\xF3-Photoroom_2"
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 566
+        width: 259
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5761a018ddd903a90800000000000000
+      internalID: -7336190218308282763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "paredes de habitaci\xF3-Photoroom_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 1280
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954be9cfae2c61fe0800000000000000
+      internalID: -1218572334640745383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "paredes de habitaci\xF3-Photoroom_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 1280
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a12cd5fae41427f0800000000000000
+      internalID: -638362247800020575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "paredes de habitaci\xF3-Photoroom_5"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 417
+        width: 111
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc01a1143831a7b0800000000000000
+      internalID: -5214825097233101639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "paredes de habitaci\xF3-Photoroom_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 789
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae514323110f29e0800000000000000
+      internalID: -1644094157259448659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "paredes de habitaci\xF3-Photoroom_7"
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 65
+        width: 237
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e083e5c1b1fee44b0800000000000000
+      internalID: -5454159198979999730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "paredes de habitaci\xF3-Photoroom_0": 5800267754141170794
+      "paredes de habitaci\xF3-Photoroom_1": -223080607844546244
+      "paredes de habitaci\xF3-Photoroom_2": -7336190218308282763
+      "paredes de habitaci\xF3-Photoroom_3": -1218572334640745383
+      "paredes de habitaci\xF3-Photoroom_4": -638362247800020575
+      "paredes de habitaci\xF3-Photoroom_5": -5214825097233101639
+      "paredes de habitaci\xF3-Photoroom_6": -1644094157259448659
+      "paredes de habitaci\xF3-Photoroom_7": -5454159198979999730
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

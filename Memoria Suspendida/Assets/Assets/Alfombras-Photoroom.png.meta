@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: e1bff125305735e4fb74bbc2ee762db5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6867917862010207588
+    second: Alfombras-Photoroom_0
+  - first:
+      213: 6620042205803217574
+    second: Alfombras-Photoroom_1
+  - first:
+      213: -3897568088330126955
+    second: Alfombras-Photoroom_2
+  - first:
+      213: 6708151873950459825
+    second: Alfombras-Photoroom_3
+  - first:
+      213: 8754620849370025527
+    second: Alfombras-Photoroom_4
+  - first:
+      213: -4764115009240916536
+    second: Alfombras-Photoroom_5
+  - first:
+      213: 4565478152030953712
+    second: Alfombras-Photoroom_6
+  - first:
+      213: 421407986346706230
+    second: Alfombras-Photoroom_7
+  - first:
+      213: -4533934917226890398
+    second: Alfombras-Photoroom_8
+  - first:
+      213: -2459340594857190745
+    second: Alfombras-Photoroom_9
+  - first:
+      213: -708242197232674696
+    second: Alfombras-Photoroom_10
+  - first:
+      213: -1320203683618615134
+    second: Alfombras-Photoroom_11
+  - first:
+      213: 6731733270937895007
+    second: Alfombras-Photoroom_12
+  - first:
+      213: -8482773299012749551
+    second: Alfombras-Photoroom_13
+  - first:
+      213: -4452181932514588804
+    second: Alfombras-Photoroom_14
+  - first:
+      213: 6888714364004091048
+    second: Alfombras-Photoroom_15
+  - first:
+      213: 7315974828907495875
+    second: Alfombras-Photoroom_16
+  - first:
+      213: 6556340279513503875
+    second: Alfombras-Photoroom_17
+  - first:
+      213: -7711538510861638265
+    second: Alfombras-Photoroom_18
+  - first:
+      213: 1965142629337931412
+    second: Alfombras-Photoroom_19
+  - first:
+      213: 8906333511600729036
+    second: Alfombras-Photoroom_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 917
+        width: 165
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dbdaf58eebf4f50800000000000000
+      internalID: 6867917862010207588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 916
+        width: 169
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a28efacf4d1fdb50800000000000000
+      internalID: 6620042205803217574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 916
+        width: 168
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5993f2f497e09e9c0800000000000000
+      internalID: -3897568088330126955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 918
+        width: 168
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7203a8694281d50800000000000000
+      internalID: 6708151873950459825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 656
+        width: 208
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ecded4749ae7970800000000000000
+      internalID: 8754620849370025527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 660
+        width: 213
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd9615f3a672edb0800000000000000
+      internalID: -4764115009240916536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 702
+        width: 261
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0ac99b036db5f30800000000000000
+      internalID: 4565478152030953712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 419
+        width: 207
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63545b3b45429d500800000000000000
+      internalID: 421407986346706230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 432
+        width: 213
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b73ffe63a3411c0800000000000000
+      internalID: -4533934917226890398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 489
+        width: 260
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aad6d552caaeddd0800000000000000
+      internalID: -2459340594857190745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 215
+        width: 308
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878110b5971db26f0800000000000000
+      internalID: -708242197232674696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 226
+        width: 110
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a010c69eb1bdade0800000000000000
+      internalID: -1320203683618615134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 377
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f508ee06ebbeb6d50800000000000000
+      internalID: 6731733270937895007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 250
+        width: 149
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1173d22d0a2274a80800000000000000
+      internalID: -8482773299012749551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 75
+        width: 234
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c774e0dfe1ca632c0800000000000000
+      internalID: -4452181932514588804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 104
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a448915731a99f50800000000000000
+      internalID: 6888714364004091048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 66
+        width: 91
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c10bbe5850978560800000000000000
+      internalID: 7315974828907495875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 165
+        width: 88
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388dcfa4fbcccfa50800000000000000
+      internalID: 6556340279513503875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 124
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785e854f49c1bf490800000000000000
+      internalID: -7711538510861638265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 70
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e1aa24fc6954b10800000000000000
+      internalID: 1965142629337931412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfombras-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 70
+        width: 127
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb6e1a1427a99b70800000000000000
+      internalID: 8906333511600729036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Alfombras-Photoroom_0: 6867917862010207588
+      Alfombras-Photoroom_1: 6620042205803217574
+      Alfombras-Photoroom_10: -708242197232674696
+      Alfombras-Photoroom_11: -1320203683618615134
+      Alfombras-Photoroom_12: 6731733270937895007
+      Alfombras-Photoroom_13: -8482773299012749551
+      Alfombras-Photoroom_14: -4452181932514588804
+      Alfombras-Photoroom_15: 6888714364004091048
+      Alfombras-Photoroom_16: 7315974828907495875
+      Alfombras-Photoroom_17: 6556340279513503875
+      Alfombras-Photoroom_18: -7711538510861638265
+      Alfombras-Photoroom_19: 1965142629337931412
+      Alfombras-Photoroom_2: -3897568088330126955
+      Alfombras-Photoroom_20: 8906333511600729036
+      Alfombras-Photoroom_3: 6708151873950459825
+      Alfombras-Photoroom_4: 8754620849370025527
+      Alfombras-Photoroom_5: -4764115009240916536
+      Alfombras-Photoroom_6: 4565478152030953712
+      Alfombras-Photoroom_7: 421407986346706230
+      Alfombras-Photoroom_8: -4533934917226890398
+      Alfombras-Photoroom_9: -2459340594857190745
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 15d45b0a4e103334bbae6f509b1e6b49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9070580442006497072
+    second: Completo-Photoroom_0
+  - first:
+      213: -6302118239052645282
+    second: Completo-Photoroom_1
+  - first:
+      213: -8263892636485988646
+    second: Completo-Photoroom_2
+  - first:
+      213: -8045523083777150333
+    second: Completo-Photoroom_3
+  - first:
+      213: -6461382995501039013
+    second: Completo-Photoroom_4
+  - first:
+      213: 3585942609234366130
+    second: Completo-Photoroom_5
+  - first:
+      213: -3418194918853177491
+    second: Completo-Photoroom_6
+  - first:
+      213: -5527272232291973750
+    second: Completo-Photoroom_7
+  - first:
+      213: -8265628007443780228
+    second: Completo-Photoroom_8
+  - first:
+      213: -6662751770454418601
+    second: Completo-Photoroom_9
+  - first:
+      213: -327667777913535821
+    second: Completo-Photoroom_10
+  - first:
+      213: 638499172942538171
+    second: Completo-Photoroom_11
+  - first:
+      213: 6901414063843380736
+    second: Completo-Photoroom_12
+  - first:
+      213: 506103086205105108
+    second: Completo-Photoroom_13
+  - first:
+      213: -8666839316315657046
+    second: Completo-Photoroom_14
+  - first:
+      213: 4216876328568751579
+    second: Completo-Photoroom_15
+  - first:
+      213: -1457637119634652976
+    second: Completo-Photoroom_16
+  - first:
+      213: 89982509599084066
+    second: Completo-Photoroom_17
+  - first:
+      213: 2922161203912975175
+    second: Completo-Photoroom_18
+  - first:
+      213: 6821180255996863378
+    second: Completo-Photoroom_19
+  - first:
+      213: 5812634531018286355
+    second: Completo-Photoroom_20
+  - first:
+      213: -3345597808058076520
+    second: Completo-Photoroom_21
+  - first:
+      213: 192707451847468349
+    second: Completo-Photoroom_22
+  - first:
+      213: -2936623370350254036
+    second: Completo-Photoroom_23
+  - first:
+      213: 6800108549119637008
+    second: Completo-Photoroom_24
+  - first:
+      213: 2485304384664662883
+    second: Completo-Photoroom_25
+  - first:
+      213: 5332890458314843736
+    second: Completo-Photoroom_26
+  - first:
+      213: 4697165309632929101
+    second: Completo-Photoroom_27
+  - first:
+      213: 692133566412495998
+    second: Completo-Photoroom_28
+  - first:
+      213: -4446262780588627955
+    second: Completo-Photoroom_29
+  - first:
+      213: -747481870477762645
+    second: Completo-Photoroom_30
+  - first:
+      213: -4134189629762199362
+    second: Completo-Photoroom_31
+  - first:
+      213: 1187009729395040627
+    second: Completo-Photoroom_32
+  - first:
+      213: 6623421664076869969
+    second: Completo-Photoroom_33
+  - first:
+      213: 535736406866976074
+    second: Completo-Photoroom_34
+  - first:
+      213: 2946066612193539595
+    second: Completo-Photoroom_35
+  - first:
+      213: -4784506644719765699
+    second: Completo-Photoroom_36
+  - first:
+      213: -3667678097644696876
+    second: Completo-Photoroom_37
+  - first:
+      213: -6047562020112067498
+    second: Completo-Photoroom_38
+  - first:
+      213: 4032464324076317354
+    second: Completo-Photoroom_39
+  - first:
+      213: 8298073623244286769
+    second: Completo-Photoroom_40
+  - first:
+      213: 1174536335962459441
+    second: Completo-Photoroom_41
+  - first:
+      213: 3063463227347528639
+    second: Completo-Photoroom_42
+  - first:
+      213: 7728430991507280549
+    second: Completo-Photoroom_43
+  - first:
+      213: 3128546346604812146
+    second: Completo-Photoroom_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Completo-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 686
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8d89f5523de1280800000000000000
+      internalID: -9070580442006497072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 705
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cb1c40ad06a88a0800000000000000
+      internalID: -6302118239052645282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 565
+        width: 140
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade494c5e61c05d80800000000000000
+      internalID: -8263892636485988646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 722
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382f14fd16f885090800000000000000
+      internalID: -8045523083777150333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 740
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b524963466e8456a0800000000000000
+      internalID: -6461382995501039013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 712
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be0a50ddc3d3c130800000000000000
+      internalID: 3585942609234366130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 756
+        width: 106
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f06b8e4d12090d0800000000000000
+      internalID: -3418194918853177491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 740
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a854b51803f2b43b0800000000000000
+      internalID: -5527272232291973750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 530
+        width: 162
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d2bc2de179a4d80800000000000000
+      internalID: -8265628007443780228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 501
+        width: 160
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b9577c0962983a0800000000000000
+      internalID: -6662751770454418601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 610
+        width: 300
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b24f1d54e3e37bf0800000000000000
+      internalID: -327667777913535821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 491
+        width: 108
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5ee986d976cd800800000000000000
+      internalID: 638499172942538171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 655
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e054b968fb6cf50800000000000000
+      internalID: 6901414063843380736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 505
+        width: 90
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3fbf0531a060700800000000000000
+      internalID: 506103086205105108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 487
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacad998f8339b780800000000000000
+      internalID: -8666839316315657046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 424
+        width: 122
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5081acdaa558a30800000000000000
+      internalID: 4216876328568751579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 407
+        width: 167
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0c0c833ce65cbe0800000000000000
+      internalID: -1457637119634652976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 508
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ec6a0ad9eaf3100800000000000000
+      internalID: 89982509599084066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 500
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74329a7f12a9d8820800000000000000
+      internalID: 2922161203912975175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 323
+        width: 229
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293e99b7d43b9ae50800000000000000
+      internalID: 6821180255996863378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 255
+        width: 146
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315a38e2f40aaa050800000000000000
+      internalID: 5812634531018286355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 255
+        width: 84
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8927f51f48c0291d0800000000000000
+      internalID: -3345597808058076520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 333
+        width: 246
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3560fc0862aca200800000000000000
+      internalID: 192707451847468349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 348
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28a9238a940f37d0800000000000000
+      internalID: -2936623370350254036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 194
+        width: 112
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0167f5862b6de5e50800000000000000
+      internalID: 6800108549119637008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 230
+        width: 179
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36378ae8b239d7220800000000000000
+      internalID: 2485304384664662883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 128
+        width: 108
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8562de1fd9b320a40800000000000000
+      internalID: 5332890458314843736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 247
+        width: 88
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d55f366feaf2140800000000000000
+      internalID: 4697165309632929101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 181
+        width: 235
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c1423cfc3fa9900800000000000000
+      internalID: 692133566412495998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 170
+        width: 114
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0869f0fe83bb42c0800000000000000
+      internalID: -4446262780588627955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 163
+        width: 264
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafd02af23960a5f0800000000000000
+      internalID: -747481870477762645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 24
+        width: 114
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0abe38f6860a6c0800000000000000
+      internalID: -4134189629762199362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 24
+        width: 98
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37126815f0b197010800000000000000
+      internalID: 1187009729395040627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 66
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151bdec39ee1beb50800000000000000
+      internalID: 6623421664076869969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 97
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ddc807c615f6700800000000000000
+      internalID: 535736406866976074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 24
+        width: 230
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b063f6099f782e820800000000000000
+      internalID: 2946066612193539595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 66
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d377bf75e840a9db0800000000000000
+      internalID: -4784506644719765699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 70
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da486fc33ac91dc0800000000000000
+      internalID: -3667678097644696876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 18
+        width: 241
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6549312526eb21ca0800000000000000
+      internalID: -6047562020112067498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 24
+        width: 66
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa210610f036f730800000000000000
+      internalID: 4032464324076317354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 96
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ba389cefda82370800000000000000
+      internalID: 8298073623244286769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 24
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dc4d8139acc4010800000000000000
+      internalID: 1174536335962459441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 24
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb6588039b938a20800000000000000
+      internalID: 3063463227347528639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 33
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a259ef2a07e04b60800000000000000
+      internalID: 7728430991507280549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completo-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 38
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277d9b49354da6b20800000000000000
+      internalID: 3128546346604812146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Completo-Photoroom_0: -9070580442006497072
+      Completo-Photoroom_1: -6302118239052645282
+      Completo-Photoroom_10: -327667777913535821
+      Completo-Photoroom_11: 638499172942538171
+      Completo-Photoroom_12: 6901414063843380736
+      Completo-Photoroom_13: 506103086205105108
+      Completo-Photoroom_14: -8666839316315657046
+      Completo-Photoroom_15: 4216876328568751579
+      Completo-Photoroom_16: -1457637119634652976
+      Completo-Photoroom_17: 89982509599084066
+      Completo-Photoroom_18: 2922161203912975175
+      Completo-Photoroom_19: 6821180255996863378
+      Completo-Photoroom_2: -8263892636485988646
+      Completo-Photoroom_20: 5812634531018286355
+      Completo-Photoroom_21: -3345597808058076520
+      Completo-Photoroom_22: 192707451847468349
+      Completo-Photoroom_23: -2936623370350254036
+      Completo-Photoroom_24: 6800108549119637008
+      Completo-Photoroom_25: 2485304384664662883
+      Completo-Photoroom_26: 5332890458314843736
+      Completo-Photoroom_27: 4697165309632929101
+      Completo-Photoroom_28: 692133566412495998
+      Completo-Photoroom_29: -4446262780588627955
+      Completo-Photoroom_3: -8045523083777150333
+      Completo-Photoroom_30: -747481870477762645
+      Completo-Photoroom_31: -4134189629762199362
+      Completo-Photoroom_32: 1187009729395040627
+      Completo-Photoroom_33: 6623421664076869969
+      Completo-Photoroom_34: 535736406866976074
+      Completo-Photoroom_35: 2946066612193539595
+      Completo-Photoroom_36: -4784506644719765699
+      Completo-Photoroom_37: -3667678097644696876
+      Completo-Photoroom_38: -6047562020112067498
+      Completo-Photoroom_39: 4032464324076317354
+      Completo-Photoroom_4: -6461382995501039013
+      Completo-Photoroom_40: 8298073623244286769
+      Completo-Photoroom_41: 1174536335962459441
+      Completo-Photoroom_42: 3063463227347528639
+      Completo-Photoroom_43: 7728430991507280549
+      Completo-Photoroom_44: 3128546346604812146
+      Completo-Photoroom_5: 3585942609234366130
+      Completo-Photoroom_6: -3418194918853177491
+      Completo-Photoroom_7: -5527272232291973750
+      Completo-Photoroom_8: -8265628007443780228
+      Completo-Photoroom_9: -6662751770454418601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
