@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: e5fe8f61109a5374bb71975f9f42525b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5682948528400074465
+    second: Sala_ (1)_0
+  - first:
+      213: 4115735030660613132
+    second: Sala_ (1)_1
+  - first:
+      213: 7895921656058569434
+    second: Sala_ (1)_2
+  - first:
+      213: -7647177029946102990
+    second: Sala_ (1)_3
+  - first:
+      213: 7425651962491841868
+    second: Sala_ (1)_4
+  - first:
+      213: -2054416579064313225
+    second: Sala_ (1)_5
+  - first:
+      213: -8141770407720898120
+    second: Sala_ (1)_6
+  - first:
+      213: -2149456024639987631
+    second: Sala_ (1)_7
+  - first:
+      213: 5154538910654241089
+    second: Sala_ (1)_8
+  - first:
+      213: -3363071929319683893
+    second: Sala_ (1)_9
+  - first:
+      213: 718092833870519878
+    second: Sala_ (1)_10
+  - first:
+      213: -3292979572723296393
+    second: Sala_ (1)_11
+  - first:
+      213: 1297299043718250239
+    second: Sala_ (1)_12
+  - first:
+      213: 5461371781980621781
+    second: Sala_ (1)_13
+  - first:
+      213: 8174647567717854763
+    second: Sala_ (1)_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sala_ (1)_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 545
+        width: 172
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1972e74c6c1221b0800000000000000
+      internalID: -5682948528400074465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sala_ (1)_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 737
+        width: 192
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04482c44370e1930800000000000000
+      internalID: 4115735030660613132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sala_ (1)_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 766
+        width: 168
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad26fab69e2f39d60800000000000000
+      internalID: 7895921656058569434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sala_ (1)_3
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 657
+        width: 92
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b298bf105cfd590800000000000000
+      internalID: -7647177029946102990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sala_ (1)_4
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 665
+        width: 195
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d220afd173d0760800000000000000
+      internalID: 7425651962491841868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sala_ (1)_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 479
+        width: 384
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac230910f3d73e0800000000000000
+      internalID: -2054416579064313225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sala_ (1)_6
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 327
+        width: 167
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1320d73fe920f80800000000000000
+      internalID: -8141770407720898120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sala_ (1)_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 327
+        width: 109
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150a20742299b22e0800000000000000
+      internalID: -2149456024639987631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sala_ (1)_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 255
+        width: 72
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149997e44d9988740800000000000000
+      internalID: 5154538910654241089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sala_ (1)_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 303
+        width: 171
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc800da06e7f351d0800000000000000
+      internalID: -3363071929319683893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sala_ (1)_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e1b96b0ad27f900800000000000000
+      internalID: 718092833870519878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sala_ (1)_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 255
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777d53b868cfc42d0800000000000000
+      internalID: -3292979572723296393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sala_ (1)_12
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 160
+        width: 335
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeb74c5b9ee00210800000000000000
+      internalID: 1297299043718250239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sala_ (1)_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 208
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db0c4b33b0bacb40800000000000000
+      internalID: 5461371781980621781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sala_ (1)_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 293
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e65d5d6ae227170800000000000000
+      internalID: 8174647567717854763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sala_ (1)_0: -5682948528400074465
+      Sala_ (1)_1: 4115735030660613132
+      Sala_ (1)_10: 718092833870519878
+      Sala_ (1)_11: -3292979572723296393
+      Sala_ (1)_12: 1297299043718250239
+      Sala_ (1)_13: 5461371781980621781
+      Sala_ (1)_14: 8174647567717854763
+      Sala_ (1)_2: 7895921656058569434
+      Sala_ (1)_3: -7647177029946102990
+      Sala_ (1)_4: 7425651962491841868
+      Sala_ (1)_5: -2054416579064313225
+      Sala_ (1)_6: -8141770407720898120
+      Sala_ (1)_7: -2149456024639987631
+      Sala_ (1)_8: 5154538910654241089
+      Sala_ (1)_9: -3363071929319683893
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
