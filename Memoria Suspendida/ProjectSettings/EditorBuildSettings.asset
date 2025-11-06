@@ -9,11 +9,26 @@ EditorBuildSettings:
     path: Assets/Scenes/Inicio.unity
     guid: 2d82e8d9c7111214e8bb0ca78eb348de
   - enabled: 1
+    path: Assets/Scenes/Introduccion.unity
+    guid: e49363e721e500a4a93f76ff298ef10b
+  - enabled: 1
     path: Assets/Scenes/Exterior.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
     path: Assets/Scenes/Primer piso.unity
     guid: e377f1ee2feb3944bbc6ad4f96fe0ff8
+  - enabled: 1
+    path: Assets/Scenes/Pasillo.unity
+    guid: 2843c7791fc216e4bbfa16a62d50f815
+  - enabled: 1
+    path: "Assets/Scenes/Habitacion ni\xF1a.unity"
+    guid: 9e36bb4f11384534f96e3926c508f1fe
+  - enabled: 1
+    path: "Assets/Scenes/Habitacion se\xF1or.unity"
+    guid: d9fe666b1ea2da945803e8001829ce9d
+  - enabled: 1
+    path: Assets/Scenes/Biblioteca.unity
+    guid: 349a3a40fa190e647b35bb1b076e5e79
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
