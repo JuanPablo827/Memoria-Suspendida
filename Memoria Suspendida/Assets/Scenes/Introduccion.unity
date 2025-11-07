@@ -292,8 +292,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7702cde1929d5fc4880657bd3bfbce63, type: 2}
+  m_sharedMaterial: {fileID: -6143576970251338962, guid: 7702cde1929d5fc4880657bd3bfbce63, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -682,7 +682,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1830681175}
-  - component: {fileID: 1830681174}
+  - component: {fileID: 1830681176}
   m_Layer: 0
   m_Name: Dialogo
   m_TagString: Untagged
@@ -690,25 +690,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1830681174
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1830681173}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 20079a5576d8099469ac4bfb74bfdc69, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  lineas:
-  - "No s\xE9 qui\xE9n eres. Pero si est\xE1s aqu\xED\u2026 tal vez quieras entender.\n"
-  - Esta casa guarda lo que fui. Lo que no supe decir.
-  - "Si decides quedarte, ay\xFAdame a recordar."
-  - "No para justificarme. Solo para no mentirme m\xE1s."
-  textoUI: {fileID: 283526522}
-  botonContinuar: {fileID: 239189634}
 --- !u!4 &1830681175
 Transform:
   m_ObjectHideFlags: 0
@@ -724,6 +705,26 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1830681176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1830681173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fe181f8790330a4f97ccb7cce6da368, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lineas:
+  - "\u201CNo s\xE9 qui\xE9n eres. Pero si est\xE1s aqu\xED\u2026 tal vez quieras
+    entender.\r\n"
+  - Esta casa guarda lo que fui. Lo que no supe decir.
+  - "Si decides quedarte, ay\xFAdame a recordar.\r\n"
+  - "No para justificarme. Solo para no mentirme m\xE1s.\u201D\r\n"
+  textoUI: {fileID: 283526522}
+  botonContinuar: {fileID: 239189634}
 --- !u!1 &1848598334
 GameObject:
   m_ObjectHideFlags: 0
@@ -783,7 +784,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Continuar
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7702cde1929d5fc4880657bd3bfbce63, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -849,7 +850,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1848598337

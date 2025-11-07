@@ -382,7 +382,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &43234976
 RectTransform:
   m_ObjectHideFlags: 0
@@ -390,19 +390,19 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 43234975}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1512199657}
   - {fileID: 998887036}
-  m_Father: {fileID: 754421492}
+  m_Father: {fileID: 1681001097}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -383, y: -226}
+  m_SizeDelta: {x: 1760, y: 1050}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &43234977
 MonoBehaviour:
@@ -3318,8 +3318,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7702cde1929d5fc4880657bd3bfbce63, type: 2}
+  m_sharedMaterial: {fileID: -6143576970251338962, guid: 7702cde1929d5fc4880657bd3bfbce63, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4263,7 +4263,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1681001097}
-  - {fileID: 43234976}
   m_Father: {fileID: 389803579}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -4991,7 +4990,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41bc573421e7b5e41a4b084926ccebb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  panelMenu: {fileID: 43234975}
+  panelMenu: {fileID: 1681001096}
   nivelActual: 
 --- !u!4 &869266110
 Transform:
@@ -7604,12 +7603,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lineas:
-  - No hay un camino correcto.
-  - Puedes empezar por donde quieras.
-  - 'Pero te advierto: algunos lugares duelen.'
-  - "Otros\u2026 duelen m\xE1s."
+  - " \u201CNo hay un camino correcto.\r\n"
+  - 'Puedes empezar por donde quieras.
+
+'
+  - 'Pero te advierto: algunos lugares duelen.
+
+'
+  - "Y yo tambi\xE9n.\u201D\r\n\r"
   textoUI: {fileID: 572694104}
-  botonContinuar: {fileID: 0}
+  burbujaUI: {fileID: 1287401847}
+  tiempoAntesDeDesaparecer: 3
 --- !u!4 &1284608148
 Transform:
   m_ObjectHideFlags: 0
@@ -8010,7 +8014,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Presiona Q
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7702cde1929d5fc4880657bd3bfbce63, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -8076,7 +8080,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 93.245445, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1320591714
@@ -9727,6 +9731,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1998342817}
+  - {fileID: 43234976}
   m_Father: {fileID: 754421492}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -9803,7 +9808,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.99607843}
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -11519,8 +11524,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 3289650
+  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 0}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:

@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
@@ -31,6 +32,7 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         nivelActual = SceneManager.GetActiveScene().name;
+        BuscarElementosUI();
 
         if (panelMenu != null)
             panelMenu.SetActive(false);
@@ -48,15 +50,14 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    // ---------------- MÉTODOS PÚBLICOS ----------------
+    // ---------------- MÉTODOS PRINCIPALES ----------------
 
     public void CargarNivel(string nombreEscena)
     {
         Debug.Log("Cargando nivel: " + nombreEscena);
-        Time.timeScale = 1f; // Asegurarse de que el tiempo esté normal
+        Time.timeScale = 1f;
         SceneManager.LoadScene(nombreEscena);
     }
-
 
     public void PausarJuego()
     {
@@ -78,7 +79,7 @@ public class GameManager : MonoBehaviour
 
     public void SalirDelJuego()
     {
-        string pantallaInicio = "Inicio"; // 👈 nombre de tu escena de inicio
+        string pantallaInicio = "Inicio"; // 👈 nombre de tu escena inicial
 
         if (Application.CanStreamedLevelBeLoaded(pantallaInicio))
         {
@@ -90,26 +91,9 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    public void EstadoDeJuego(string estado)
-    {
-        switch (estado)
-        {
-            case "Pausa":
-                PausarJuego();
-                break;
-            case "Jugando":
-                ReanudarJuego();
-                break;
-            case "Salir":
-                SalirDelJuego();
-                break;
-        }
-    }
+    // ---------------- SOPORTE ----------------
 
-    public bool IsPausado()
-    {
-        return juegoPausado;
-    }
+    public bool IsPausado() => juegoPausado;
 
     private void OnEnable()
     {
@@ -123,13 +107,36 @@ public class GameManager : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        // Asegurar que al cargar una escena el juego esté activo
         Time.timeScale = 1f;
         juegoPausado = false;
+        BuscarElementosUI();
 
-        // Ocultar menú si no debe estar visible
         if (panelMenu != null)
             panelMenu.SetActive(false);
     }
 
+    private void BuscarElementosUI()
+    {
+        // Buscar el panel dentro de tu jerarquía (PanelMenuPausa > Canvas > Menu > FondoMenu)
+        Transform panel = GameObject.Find("PanelMenuPausa")?.transform.Find("Canvas/Menu/FondoMenu");
+        if (panel != null)
+            panelMenu = panel.gameObject;
+
+        // Buscar los botones dentro del panel encontrado
+        Button btnReanudar = panelMenu?.transform.Find("Reanudar")?.GetComponent<Button>();
+        Button btnSalir = panelMenu?.transform.Find("Salir")?.GetComponent<Button>();
+
+        // Asignar eventos
+        if (btnReanudar != null)
+        {
+            btnReanudar.onClick.RemoveAllListeners();
+            btnReanudar.onClick.AddListener(ReanudarJuego);
+        }
+
+        if (btnSalir != null)
+        {
+            btnSalir.onClick.RemoveAllListeners();
+            btnSalir.onClick.AddListener(SalirDelJuego);
+        }
+    }
 }

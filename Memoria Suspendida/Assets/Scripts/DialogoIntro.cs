@@ -1,27 +1,28 @@
 using UnityEngine;
-using UnityEngine.UI;
-using TMPro; // Si usas TextMeshPro
-using UnityEngine.SceneManagement;
+using TMPro;
+using System.Collections;
 
 public class DialogoIntro : MonoBehaviour
 {
     [TextArea(3, 5)]
     public string[] lineas; // Lista de textos
 
-    public TMP_Text textoUI; // Referencia al texto en pantalla
-    public GameObject botonContinuar;
+    public TMP_Text textoUI;          // Referencia al texto en pantalla
+    public GameObject burbujaUI;      // Referencia a la burbuja de chat (el fondo)
+    public float tiempoAntesDeDesaparecer = 3f; // Segundos antes de ocultar al final
 
     private int indice = 0;
+    private bool dialogoTerminado = false;
 
     void Start()
     {
         textoUI.text = lineas[indice];
-        botonContinuar.SetActive(false);
+        burbujaUI.SetActive(true);
     }
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (!dialogoTerminado && Input.GetKeyDown(KeyCode.Space))
             AvanzarTexto();
     }
 
@@ -34,13 +35,15 @@ public class DialogoIntro : MonoBehaviour
         }
         else
         {
-            botonContinuar.SetActive(true);
+            dialogoTerminado = true;
+            StartCoroutine(DesaparecerDespuesDeTiempo());
         }
     }
 
-    // Pon esto en el botón "Continuar"
-    public void IrAEscenaExterior()
+    IEnumerator DesaparecerDespuesDeTiempo()
     {
-        SceneManager.LoadScene("SampleScene"); // Cambia el nombre según tu escena
+        yield return new WaitForSeconds(tiempoAntesDeDesaparecer);
+        textoUI.text = "";             // Borra el texto
+        burbujaUI.SetActive(false);    // Oculta la burbuja
     }
 }
